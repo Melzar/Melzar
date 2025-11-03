@@ -7,9 +7,20 @@ Always looking for simple solutions to complex problems. Knowledge hungry.
 > Life is really simple, but we insist on making it complicated. <br />
 > $\quad$ \- Confucius
 
-## My Experience
+## Expertise :tophat:
 
-Coming soon... 🤞
+Product and user-oriented developer with an eye for detail. In my proffesional experience I've been usually wearing many hats. <br />
+Usually as fullstack developer, I've been solving variety type of problems: HIPA, real time data, offline mode, payments... take your pick. <br />
+
+My role was highly dependent on the project. I've been leading teams, mentoring junior developers, helping startups with my technical experience,
+depending on the need I've been offering my services and knowledge. 
+
+Working with multiple tech stacks allowed me to look at the software development in a bigger picture. 
+Personally, I value stable, easy to maintain products with attractive UI and good architecture.
+
+My tools of choice right now is `Typescript`, `React` and `React Native` which allows me to maintain knowledge in all of the stacks.
+
+Recently, on a side I'm playing with embedded programming and getting more into robotics.
 
 ## Technologies 🪄
 
@@ -56,19 +67,6 @@ I've been working with a variety of technologies, and I like to experiment and l
 
 ## Contact me ✍️
 ![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tomasz-matuszewski) 
-<!--
-**Melzar/Melzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&reversal=false&section=footer&customColorList=5&animation=fadeIn&fontSize=60&fontAlignY=60)
