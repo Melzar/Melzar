@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Howdy%20👋&reversal=true&section=header&customColorList=5&animation=fadeIn&fontSize=40&fontAlignY=30)
 ## About me 🧙‍♂️
 
-Hi! I'm a software developer with over 10 years of experience. Passionate about architecture and scale. <br />
+Hi! I'm a software developer with over 13 years of experience. Passionate about architecture and scale. <br />
 Always looking for simple solutions to complex problems. Knowledge hungry.
 
 > Life is really simple, but we insist on making it complicated. <br />
