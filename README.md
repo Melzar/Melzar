@@ -46,7 +46,7 @@ I've been working with a variety of technologies, and I like to experiment and l
 ![raspberrypi](https://img.shields.io/badge/-Raspberry%20Pi-c7053d?logo=raspberrypi&logoColor=white&style=for-the-badge)
 ![arduino](https://img.shields.io/badge/-Arduino-3186A0?logo=arduino&logoColor=white&style=for-the-badge)
 
-### Past stack 👴
+### Past stack 🪦
 ![android](https://img.shields.io/badge/-Android-78C257?logo=android&logoColor=white&style=for-the-badge)
 ![ios](https://img.shields.io/badge/-iOS-A2AAAD?logo=ios&logoColor=white&style=for-the-badge) 
 ![swift](https://img.shields.io/badge/-Swift-fe572e?logo=swift&logoColor=white&style=for-the-badge) 
